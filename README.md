@@ -1,6 +1,6 @@
 # Microshop
 
-Atividade desenvolvida como prática para estudar **Micro Frontends** com React e TypeScript.
+Projeto desenvolvido como atividade prática para estudar **Micro Frontends** com React e TypeScript.
 
 ## Sobre o projeto
 
@@ -19,3 +19,31 @@ Os módulos são carregados de forma independente utilizando `React.lazy` e `Sus
 - React Router DOM
 - CSS
 - Vite
+
+## Como executar o projeto
+
+### 1. Clone o repositório
+
+```bash
+git clone https://github.com/SEU-USUARIO/microshop.git
+```
+
+### 2. Entre na pasta do projeto
+
+```bash
+cd microshop
+```
+
+### 3. Instale as dependências
+
+```bash
+npm install
+```
+
+### 4. Execute a aplicação
+
+```bash
+npm run dev
+```
+
+A aplicação estará disponível no endereço local indicado pelo terminal.
